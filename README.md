@@ -1,10 +1,12 @@
  ### Hi there 👋
  
  🤓 I'm Qianran Yi 易芊然, a senior student majoring in financial engineering at Wuhan University.
+
+ 🌱 I’m currently studying quantitative finance related fields.
  
- I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘.
+ 📷 a photography lover, enjoying delicious food 🥘.
  
- And I love fruit very much. 🍎 🍓 🥭 🥝
+ 🍓 🥭 🥝 these fruits are my favorite.
 
 
 ### My side projects
