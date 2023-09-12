@@ -1,16 +1,15 @@
-### Hi there 👋
+ ### Hi there 👋
+ 
+ 🤓 I'm Qianran Yi 易芊然, a senior student majoring in financial engineering at Wuhan University.
+ 
+ I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘.
+ 
+ And I love fruit very much. 🍎 🍓 🥭 🥝
 
-<!--
-**blueberrycucumber/blueberrycucumber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Collecting and sharing awesome resources about technical communication (tech comm):
+
+
+### Get in touch
