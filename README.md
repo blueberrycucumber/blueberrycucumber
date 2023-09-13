@@ -1,6 +1,6 @@
  ### Hi there 👋
  
- 🤓 I'm Qianran Yi, a senior student majoring in financial engineering at Wuhan University.
+ 🤓 This is blueberrycucumber, a senior student majoring in financial engineering.
 
  🌱 I’m currently studying quantitative finance related fields.
  
