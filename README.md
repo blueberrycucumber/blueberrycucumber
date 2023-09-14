@@ -1,6 +1,6 @@
  ### Hi there 👋
  
- 🤓 This is blueberrycucumber, a senior student majoring in financial engineering.
+ 🤓 a senior student majoring in financial engineering.
 
  🌱 I’m currently studying quantitative finance related fields.
  
