@@ -8,7 +8,7 @@
 
 ### My side projects
 
-Collecting and sharing awesome resources about technical communication (tech comm):
+**Collecting and sharing awesome resources about technical communication :**
 <div align=center>
 <a href="https://www.hackerrank.com/Qianran YI"><img src="https://github.com/Psingh12354/Java-HackeRank/blob/master/hack.png" width="35%"></img></a>
 </div>
@@ -17,7 +17,8 @@ Collecting and sharing awesome resources about technical communication (tech com
   <img src="https://github.com/blueberrycucumber/Certifications/blob/main/javascript.jpg.png" width="20%" />
   <img src="https://github.com/blueberrycucumber/Certifications/blob/main/sql.jpg.png" width="20%" /> 
   <img src="https://github.com/blueberrycucumber/Certifications/blob/main/problemsolve.jpg.png" width="20%" />
-  <img src= https://github.com/blueberrycucumber/Certifications/blob/main/sqla.jpg.png" width="20%" />
+  <img src= https://github.com/blueberrycucumber/Certifications/blob/main/sqla.jpg.png width="20%" />
+</div>
 
  
 ### Get in touch
