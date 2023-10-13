@@ -14,10 +14,10 @@ Collecting and sharing awesome resources about technical communication (tech com
 </div>
 
 <div float=left align=center>
-  <img src="https://github.com/blueberrycucumber/Certificates/blob/master/sql.JPG" width="20%" />
-  <img src="https://github.com/blueberrycucumber/Certificates/blob/master/HackerRank%20Problem%20Solving%20(Basic)).PNG" width="20%" /> 
-  <img src="https://github.com/blueberrycucumber/Certificates/blob/master/C%2B%2B.PNG" width="20%" />
-  <img src= https://github.com/blueberrycucumber/Certificates/blob/master/HackerRank%20Python(Basic2).PNG width="20%" />
+  <img src="https://github.com/blueberrycucumber/Certifications/blob/main/javascript.jpg.png" width="20%" />
+  <img src="https://github.com/blueberrycucumber/Certifications/blob/main/sql.jpg.png" width="20%" /> 
+  <img src="https://github.com/blueberrycucumber/Certifications/blob/main/problemsolve.jpg.png" width="20%" />
+  <img src= https://github.com/blueberrycucumber/Certifications/blob/main/sqla.jpg.png" width="20%" />
 
  
 ### Get in touch
